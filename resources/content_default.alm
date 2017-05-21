@@ -1,0 +1,272 @@
+%% This is file `elsarticle-template-1-num.tex',
+%%
+%% Copyright 2009 Elsevier Ltd
+%%
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%%
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%%
+%% Template article for Elsevier's document class `elsarticle'
+%% with numbered style bibliographic references
+%%
+%% $Id: elsarticle-template-1-num.tex 149 2009-10-08 05:01:15Z rishi $
+%% $URL: http://lenova.river-valley.com/svn/elsbst/trunk/elsarticle-template-1-num.tex $
+%%
+\documentclass[final,12pt]{elsarticle}
+\usepackage[utf8]{inputenc} %reconhece acentuacao
+\usepackage[T1]{fontenc} %padrao de fonte
+\usepackage[brazilian]{babel} %traduz para o pt-br
+\usepackage{lipsum} %gera textos aleatorios
+\usepackage{graphicx} %uso de imagens
+\usepackage{amssymb} % para exibir simbolos matematicos
+\usepackage{subfig} %uso de caixa de figuras
+\usepackage{amsmath} %para usar begin{cases}
+\usepackage{amsfonts} %para usar mathbb
+\usepackage{float} %fixa tabela e imagens flutuantes
+\graphicspath{{images/}} %diretorio onde ficar\~{a}o imagens
+\usepackage{latexsym} %permite usar simbolos
+\usepackage{lineno} %para mostrar numeração de linhas
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers after \end{frontmatter}.
+
+
+%% natbib.sty is loaded by default. However, natbib options can be
+%% provided with \biboptions{...} command. Following options are
+%% valid:
+
+%%   round  -  round parentheses are used (default)
+%%   square -  square brackets are used   [option]
+%%   curly  -  curly braces are used      {option}
+%%   angle  -  angle brackets are used    <option>
+%%   semicolon  -  multiple citations separated by semi-colon
+%%   colon  - same as semicolon, an earlier confusion
+%%   comma  -  separated by comma
+%%   numbers-  selects numerical citations
+%%   super  -  numerical citations as superscripts
+%%   sort   -  sorts multiple citations according to order in ref. list
+%%   sort&compress   -  like sort, but also compresses numerical citations
+%%   compress - compresses without sorting
+%%
+%% \biboptions{comma,round}
+
+% \biboptions{}
+
+\journal{AQUI NOME DA REVISTA}
+
+\begin{document}
+
+\begin{frontmatter}
+
+%% Title, authors and addresses
+
+\title{AQUI TÍTULO DO ARTIGO}
+
+%% use the tnoteref command within \title for footnotes;
+%% use the tnotetext command for the associated footnote;
+%% use the fnref command within \author or \address for footnotes;
+%% use the fntext command for the associated footnote;
+%% use the corref command within \author for corresponding author footnotes;
+%% use the cortext command for the associated footnote;
+%% use the ead command for the email address,
+%% and the form \ead[url] for the home page:
+%%
+%% \title{Title\tnoteref{label1}}
+%% \tnotetext[label1]{}
+%% \author{Name\corref{cor1}\fnref{label2}}
+%% \ead{email address}
+%% \ead[url]{home page}
+%% \fntext[label2]{}
+%% \cortext[cor1]{}
+%% \address{Address\fnref{label3}}
+%% \fntext[label3]{}
+
+
+%% use optional labels to link authors explicitly to addresses:
+%% \author[label1,label2]{<author name>}
+%% \address[label1]{<address>}
+%% \address[label2]{<address>}
+
+\author[profissao1,instituicao1, email]{NOME AUTOR 1}
+\author[profissao2,instituicao2]{NOME AUTOR 2}
+\author[profissao3,instituicao3]{NOME AUTOR 3}
+\author[profissao4,instituicao4]{NOME AUTOR 4}
+%\ead[url]{http://www.cleibsonalmeida.blog.br}
+
+\address{CIDADE REVISTA, PAÍS REVISTA}
+\fntext[email]{EMAIl PARA CONTATO COM AUTORES}
+\fntext[profissao1]{PROFISSÃO AUTOR 1}
+\fntext[profissao2]{PROFISSÃO AUTOR 2}
+\fntext[profissao3]{PROFISSÃO AUTOR 3}
+\fntext[profissao4]{PROFISSÃO AUTOR 4}
+\fntext[instituicao1]{INSTITUIÇÃO AUTOR 1}
+\fntext[instituicao2]{INSTITUIÇÃO AUTOR 2}
+\fntext[instituicao3]{INSTITUIÇÃO AUTOR 3}
+\fntext[instituicao4]{INSTITUIÇÃO AUTOR 4}
+
+\begin{abstract}
+%% Text of abstract
+RESUMO AQUI.
+\end{abstract}
+
+\begin{keyword}
+PALAVRA CHAVE 1 \sep PALAVRA CHAVE 2 \sep PALAVRA CHAVE 3
+%% keywords here, in the form: keyword \sep keyword
+
+%% MSC codes here, in the form: \MSC code \sep code
+%% or \MSC[2008] code \sep code (2000 is the default)
+
+\end{keyword}
+
+\end{frontmatter}
+
+%%
+%% Start line numbering here if you want
+%%
+\linenumbers
+
+%% main text
+\section{INTRODUÇÃO}
+
+CONTEÚDO.
+
+\section{REFERENCIAL TEÓRICO}
+
+
+\subsection{TÓPICO A}
+
+CONTEÚDO.
+
+\subsection{TÓPICO B}
+
+CONTEÚDO.
+
+\section{METODOLOGIA}
+
+\subsection{COLETA E ESTRUTURAÇÃO DE DADOS}
+
+CONTEÚDO.
+
+\subsection{MÉTODOS E SOFTWARES UTILIZADOS}
+	
+CONTEÚDO.
+	
+\section{RESULTADOS E ANÁLISES}
+
+CONTEÚDO.
+
+\section{CONCLUSÃO}
+
+CONTEÚDO.
+
+
+%\begin{figure}[H]
+%\centering\includegraphics[width=0.6\paperwidth]{grafico_1.png}
+%\caption{Dados originais}
+%\label{fig:graf1}
+%\end{figure} 
+%
+%A Figura \ref{fig:graf2} mostra o resultado de uma diferenciação aplicada aos dados para eliminar o problema da não estacionariedade identificada na Figura \ref{fig:graf1}. Perceba que agora a tendência de elevação da média com o passar dos meses foi eliminada. Este procedimento é descrito em detalhes na literatura de \citet{morettin_2006}.
+%
+%\begin{figure}[H]
+%\centering\includegraphics[width=0.63\paperwidth]{grafico_2.png}
+%\caption{Aplicação da diferenciação}
+%\label{fig:graf2}
+%\end{figure}
+
+
+%\begin{figure}[H]
+%\centering
+%\parbox{6cm}{
+%\includegraphics[width=0.4\paperwidth]{fac_1.png}
+%\caption{Função de autocorrelação "random walk"}
+%\label{fig:fac1}}
+%\qquad
+%\begin{minipage}{6cm}
+%\includegraphics[width=0.4\paperwidth]{facp_1.png}
+%\caption{Função de autocorrelação parcial "random walk"}
+%\label{fig:facp1}
+%\end{minipage}
+%\end{figure}
+
+
+%\begin{table}[H]
+%\centering
+%\caption{Parâmetros estimados e previsões com o modelo}
+%\begin{tabular}{r l l}
+%\hline
+%\textbf{Parâmetro} & \textbf{Estimativa} & \textbf{P-valor} \\
+%\hline
+%$\phi_{1}$ & 0.938 & 0.000  \\
+%$\theta_{1}$ & 0.192 & 0.032 \\
+%$\Theta_{1}$ & 0.699 & 0.000  \\
+%$\overline{x}$ & 20.063 & 0.000  \\
+%$Constante (\theta_{0})$ & 1.228 & 0.000  \\
+%\hline
+%\end{tabular}
+%\label{tab:parametros}
+%\end{table}
+
+%% The Appendices part is started with the command \appendix;
+%% appendix sections are then done as normal sections
+%% \appendix
+
+%% \section{}
+%% \label{}
+
+%% References
+%%
+%% Following citation commands can be used in the body text:
+%% Usage of \cite is as follows:
+%%   \cite{key}          ==>>  [#]
+%%   \cite[chap. 2]{key} ==>>  [#, chap. 2]
+%%   \citet{key}         ==>>  Author [#]
+
+%% References with bibTeX database:
+
+\bibliographystyle{plain} %plain ieeetr abbrv acm unsrt alpha apalike siam apa named abstract authordate1
+\bibliography{bibliography.bib} %exibe a bibliografia citada no texto
+
+%% Authors are advised to submit their bibtex database files. They are
+%% requested to list a bibtex style file in the manuscript if they do
+%% not want to use model1-num-names.bst.
+
+%% References without bibTeX database:
+
+% \begin{thebibliography}{00}
+
+%% \bibitem must have the following form:
+%%   \bibitem{key}...
+%%
+
+% \bibitem{}
+
+% \end{thebibliography}
+
+
+\end{document}
+
+%%
+%% End of file `elsarticle-template-1-num.tex'.

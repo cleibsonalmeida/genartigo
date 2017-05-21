@@ -1,0 +1,127 @@
+%%https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#Natbib
+
+@article{example_article,
+    author    = {},
+    title     = {},
+    journal   = {},
+    %volume   = {},
+    %number   = {},
+    %pages    = {},
+    year      = {},
+    %month    = {},
+    %note     = {},
+}
+
+@book{example_book,
+    author    = {},
+    title     = {},
+    publisher = {},
+    %volume   = {},
+    %number   = {},
+    %series   = {},
+    %address  = {},
+    %edition  = {},
+    year      = {},
+    %month    = {},
+    %note     = {},
+}
+
+@conference{example_conference,
+    author    = {},
+    title     = {},
+    booktitle = {},
+    %editor   = {},
+    %volume   = {},
+    %number   = {},
+    %series   = {},
+    %pages    = {},
+    %address  = {},
+    year      = {},
+    %month    = {},
+    %publisher= {},
+    %note     = {},
+}
+
+@manual{example_conference,
+	title		= {},
+	%author		= {},
+	%organization	= {},
+	%address	= {},
+	%edition	= {},
+	year		= {},
+	%month		= {},
+	%note		= {},
+}
+
+@mastersthesis{example_dissertation,
+    author    = {},
+    title     = {},
+    school    = {},
+    %type     = {},
+    %address  = {},
+    year      = {},
+    %month    = {},
+    %note     = {},
+}
+
+@phdthesis{example_thesis,
+    author    = {},
+    title     = {},
+    school    = {},
+    %type     = {},
+    %address  = {},
+    year      = {},
+    %month    = {},
+    %note     = {},
+}
+
+@techreport{example_report,
+    author    = {},
+    title     = {},
+    institution = {},
+    %type     = {}, 
+    %number   = {},
+    %address  = {},
+    year      = {},
+    %month    = {},
+    %note     = {},
+}
+
+@unpublished{example_unpublished,
+	author	= {},
+	title	= {},
+	%year	= {},
+	%month	= {},
+	note	= {},
+}
+
+@Patent{example_patent,
+ author = {EHLINGER, JR., Philip Charles},
+ title = {Device for the treatment of hiccups},
+ year = {2006},
+ month = {06},
+ day = {13},
+ number = {US 7062320},
+ type = {Patent},
+ version = {},
+ location = {US},
+ url = {http://www.patentlens.net/patentlens/patent/US_7062320/},
+ filing_num = {10684114},
+ yearfiled = {2003},
+ monthfiled = {10},
+ dayfiled = {14},
+ pat_refs = {US 408607 A (Aug, 1889) Flint 607/134; US 4210141 A (Jul, 1980) Brockman et al. 604/78},
+ IPC_class = {A61N 1/04},
+ US_class = {607  2},
+ abstract = {A device for the treatment of hiccups, and more specifically, to a method and apparatus for the treatment of hiccups involving galvanic stimulation of the Superficial Phrenetic and Vagus nerves using an electric current.}
+}
+
+@online{example_online,
+    author = {Website Name},
+    title = {Online Page Name},
+    month = {Abril},
+    url = {https://www.namesite.com},
+    urldate = {2016-04-20},
+}
+
+%% BEGIN
