@@ -18,3 +18,4 @@ echo "arquivo main.tex foi compilado com sucesso!"
 
 #mensagem ao usuario
 echo "template criada com sucesso!"
+echo "imagens estão no diretório /images"
