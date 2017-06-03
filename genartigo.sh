@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #cria estrutura
-mkdir template template/images template/references template/analysis
+mkdir template template/images template/references template/analysis template/temp
 touch template/bibliography.bib template/main.tex template/elsearticle.cls
 
 #cria conteudo base
