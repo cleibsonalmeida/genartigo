@@ -27,18 +27,30 @@ Após gerar o template, todos os arquivos estaro dentro do diretório **template
 ## Bibliotecas Latex necessárias
 
 `\usepackage[utf8]{inputenc}` %reconhece acentuacao
+
 `\usepackage[T1]{fontenc}` %padrao de fonte
+
 `\usepackage[brazilian]{babel}` %traduz para o pt-br
+
 `\usepackage{lipsum}` %gera textos aleatorios
+
 `\usepackage{graphicx}` %uso de imagens
+
 `\usepackage{amssymb}` % para exibir simbolos matematicos
+
 `\usepackage{subfig}` %uso de caixa de figuras
+
 `\usepackage{amsmath}` %para usar begin{cases}
+
 `\usepackage{amsfonts}` %para usar mathbb
+
 `\usepackage{float}` %fixa tabela e imagens flutuantes
+
 `\graphicspath{{images/}}` %diretorio onde ficarão imagens
-\usepackage{latexsym} %permite usar simbolos
-\usepackage{lineno} %para mostrar numeração de linhas
+
+`\usepackage{latexsym}` %permite usar simbolos
+
+`\usepackage{lineno}` %para mostrar numeração de linhas
 
 ## Dúvidas
 
