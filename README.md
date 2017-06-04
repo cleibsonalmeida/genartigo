@@ -4,7 +4,7 @@ Genartigo é um pequeno gerador de templates para elaboração de artigos cient�
 
 ## Gerando a estrutura do artigo
 
-Após [clonar projeto](http://git@github.com:nosbielcs/genartigo.git "clonar genartigo") em seu ambiente de trabalho ou  fazer o download do arquivo compactado (https://github.com/nosbielcs/genartigo/archive/master.zip) e extrair em seu ambiente de trabalho. Execute:
+Após clonar projeto em **git@github.com:nosbielcs/genartigo.git**  em seu ambiente de trabalho ou  fazer o download do arquivo compactado (https://github.com/nosbielcs/genartigo/archive/master.zip) e extrair em seu ambiente de trabalho. Execute:
 
 `sh genartigo.sh`
 
