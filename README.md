@@ -1,8 +1,8 @@
-#GenArtigo - Gerador de Template Latex para Artigos Científico
+# GenArtigo - Gerador de Template Latex para Artigos Científico
 
 Genartigo é um pequeno gerador de templates para elaboração de artigos científicos no padrão para submissão em revistas internacionais.
 
-##Gerando a estrutura do artigo
+## Gerando a estrutura do artigo
 
 Após clonar o projeto (git@github.com:nosbielcs/genartigo.git) em seu ambiente de trabalho ou  fazer o download do arquivo compactado (https://github.com/nosbielcs/genartigo/archive/master.zip) e extrair em seu ambiente de trabalho. Execute:
 
@@ -10,7 +10,7 @@ Após clonar o projeto (git@github.com:nosbielcs/genartigo.git) em seu ambiente 
 
 Perceba que dentro do diretório do projeto foi criado um novo diretório chamado **template**. Todos os recursos necessários para iniciar a elaboração do seu artigo estão neste diretório.
 
-##Diretórios do Projeto Padrão
+## Diretórios do Projeto Padrão
 
 ![Estrutura Padrão](structure.png)
 
@@ -24,4 +24,10 @@ Após gerar o template, todos os arquivos estaro dentro do diretório **template
 7. bibliography.bib - **arquivo responsável pelo gerenciamento de bibliografias utilizadas no seu artigo. O padrão adotado foi o bibtex nativo.**
 8. elsearticle.cls - **arquivo responsável pelo design base do template**.
 
-##Bibliotecas Latex necessárias
+## Bibliotecas Latex necessárias
+
+
+
+## Dúvidas
+
+Se persistirem dúvidas, por gentileza me reporte com uma **Issue**. [Clique aqui para relatar um Problema](https://github.com/nosbielcs/genartigo/issues)
