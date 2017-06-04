@@ -20,7 +20,7 @@ Após gerar o template, todos os arquivos estaro dentro do diretório **template
 3. images - **diretório para armazenar imagens utilizadas no artigo**.
 4. references - **diretório para armazenar arquivos digitais consultados durante a escrita do artigo**.
 5. temp - **diretório para armazenar arquivos temporários**.
-6. main.tex - **arquivo responsável pela escrita do artigo. Por padrão já está estruturado, porém pode ser modificado de acordo com os padrões da revista que você for publicar seu trabalho**.
+6. main.tex - **arquivo responsável pela escrita do artigo. Este é o arquivo que deve ser compilado para gerar o pdf. Por padrão já está estruturado, porém pode ser modificado de acordo com os padrões da revista que você for publicar seu trabalho**.
 7. bibliography.bib - **arquivo responsável pelo gerenciamento de bibliografias utilizadas no seu artigo. O padrão adotado foi o bibtex nativo.**
 8. elsearticle.cls - **arquivo responsável pelo design base do template**.
 
