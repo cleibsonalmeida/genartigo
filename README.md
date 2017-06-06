@@ -12,7 +12,7 @@ Perceba que dentro do diretório do projeto foi criado um novo diretório chamad
 
 ## Diretórios do Projeto Padrão
 
-**Nota:** *Você só precisa editar os arquivos main.tex e bibligraphy.bib.*
+**Nota:** *Você só precisa editar os arquivos main.tex e bibliography.bib.*
 
 ![Estrutura Padrão](structure.png)
 
