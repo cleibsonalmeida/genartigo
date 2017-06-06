@@ -8,6 +8,7 @@ touch template/bibliography.bib template/main.tex template/elsearticle.cls
 cat resources/reference_formats.alm > template/bibliography.bib
 cat resources/content_default.alm > template/main.tex
 cat resources/format_default.alm > template/elsearticle.cls
+sleep 5
 echo "conteúdo base foi criado no diretório /template"
 
 #compila latex
@@ -17,5 +18,6 @@ cd ..
 echo "arquivo main.tex foi compilado com sucesso!"
 
 #mensagem ao usuario
+sleep 5
 echo "template criada com sucesso!"
 echo "imagens estão no diretório /images"
