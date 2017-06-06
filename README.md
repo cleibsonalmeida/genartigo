@@ -10,7 +10,7 @@ Após clonar projeto em **git@github.com:nosbielcs/genartigo.git**  em seu ambie
 
 Perceba que dentro do diretório do projeto foi criado um novo diretório chamado **template**. Todos os recursos necessários para iniciar a elaboração do seu artigo estão neste diretório.
 
-## Diretórios do Projeto Padrão
+## Estrutura padrão do diretório template
 
 **Nota:** *Você só precisa editar os arquivos main.tex e bibliography.bib.*
 
