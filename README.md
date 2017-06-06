@@ -12,9 +12,11 @@ Perceba que dentro do diretório do projeto foi criado um novo diretório chamad
 
 ## Diretórios do Projeto Padrão
 
+**Nota: Você só precisa editar os arquivos main.tex e bibligraphy.bib.**
+
 ![Estrutura Padrão](structure.png)
 
-Após gerar o template, todos os arquivos estaro dentro do diretório **template**.
+Após gerar o template, todos os arquivos estarão dentro do diretório **template**.
 1. analysis - **diretório para armazenar arquivos utilizados em suas análises. Por exemplo: scripts de análises de dados**.
 2. data -  **diretório para armazenar os dados utilizados nas análises realizadas**.
 3. images - **diretório para armazenar imagens utilizadas no artigo**.
