@@ -50,7 +50,7 @@ Após gerar o template, todos os arquivos estarão dentro do diretório **templa
 
 `\graphicspath{{images/}}` %diretorio onde ficarão imagens
 
-`\usepackage{latexsym}` %permite usar simbolos
+`\usepackage{latexsym}` %permite usar símbolos maemáticos
 
 `\usepackage{lineno}` %para mostrar numeração de linhas
 
