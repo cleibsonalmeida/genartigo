@@ -15,6 +15,7 @@ echo "conteúdo base foi criado no diretório /template"
 cd template
 pdflatex main.tex
 cd ..
+sleep 5
 echo "arquivo main.tex foi compilado com sucesso!"
 
 #mensagem ao usuario
