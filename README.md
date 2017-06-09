@@ -26,6 +26,27 @@ Após gerar o template, todos os arquivos estarão dentro do diretório **templa
 7. bibliography.bib - **arquivo responsável pelo gerenciamento de bibliografias utilizadas no seu artigo. O padrão adotado foi o bibtex nativo.**
 8. elsearticle.cls - **arquivo responsável pelo design base do template**.
 
+## Instalando Latex no Linux (Ubuntu Family)
+
+`sudo apt-get install texlive-full`
+
+`sudo apt-get install texlive-latex-extra`
+
+`sudo apt-get install texlive-lang-portuguese`
+
+`sudo apt-get install texlive-fonts-recommended`
+
+`sudo apt-get install latex-beamer` (Instalar o suporte para apresentações com Beamer)
+
+`sudo apt-get install texlive-extra-utils texlive-generic-extra texlive-lang-portuguese`
+
+`sudo apt-get install texlive-latex-extra texlive-math-extra texlive-pictures`
+
+`sudo apt-get install texlive-plain-extra texlive-publishers texlive-science`
+
+`sudo apt-get install texlive-publishers`
+
+
 ## Bibliotecas Latex necessárias
 
 `\usepackage[utf8]{inputenc}` %reconhece acentuacao
