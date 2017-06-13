@@ -8,7 +8,7 @@ Após clonar projeto em **git@github.com:nosbielcs/genartigo.git**  em seu ambie
 
 `sh genartigo.sh`
 
-Perceba que dentro do diretório do projeto foi criado um novo diretório chamado **template**. Todos os recursos necessários para iniciar a elaboração do seu artigo estão neste diretório.
+Perceba que foi criado um novo diretório chamado **template**. Todos os recursos necessários para iniciar a elaboração do seu artigo estão neste diretório.
 
 ## Estrutura padrão do diretório template
 
