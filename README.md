@@ -2,7 +2,7 @@
 
 Genartigo é um pequeno gerador de templates para elaboração de artigos científicos no padrão para submissão em revistas internacionais.
 
-## Gerando a estrutura do artigo
+## Gerando a estrutura do artigo (template)
 
 Após clonar projeto em **git@github.com:nosbielcs/genartigo.git**  no seu ambiente de trabalho ou  fazer o download do arquivo compactado (https://github.com/nosbielcs/genartigo/archive/master.zip) e extrair em seu ambiente de trabalho. Execute:
 
