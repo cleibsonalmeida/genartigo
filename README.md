@@ -81,4 +81,4 @@ Se persistirem dúvidas, por gentileza me reporte com uma **Issue**. [Clique aqu
 
 ## Revistas e Periódicos de Interesse
 
-[Clique aqui para visualizar lista de peridóicos](JOURNALS.md)
+[Clique aqui para visualizar lista de periódicos](JOURNALS.md)
