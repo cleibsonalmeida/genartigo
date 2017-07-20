@@ -78,3 +78,7 @@ Após gerar o template, todos os arquivos estarão dentro do diretório **templa
 ## Dúvidas
 
 Se persistirem dúvidas, por gentileza me reporte com uma **Issue**. [Clique aqui para relatar um Problema](https://github.com/nosbielcs/genartigo/issues)
+
+## Revistas e Periódicos de Interesse
+
+[Clique aqui para visualizar lista de peridóicos](JOURNALS.md)
