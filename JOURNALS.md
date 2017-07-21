@@ -41,17 +41,17 @@ http://www.tandfonline.com/toc/cjas20/current
 
  Journal of Applied Statistics  is a world-leading journal which provides a forum for communication among statisticians and practitioners for judicious application of statistical principles and innovations of statistical methodology motivated by current and important real-world examples across a wide range of disciplines, including, but not limited to:
 
-    biological and biomedical sciences
-    business, economics, management and finance
-    computer science and information technology
-    data science
-    ecology
-    education
-    engineering
-    genetics and genomics 
-    medicine and related disciplines
-    operations research
-    social sciences
+### biological and biomedical sciences
+### business, economics, management and finance
+### computer science and information technology
+### data science
+### ecology
+### education
+### engineering
+### genetics and genomics 
+### medicine and related disciplines
+### operations research
+### social sciences
 
 
 The editorial policy is to publish rigorous, clear and accessible papers on methods developed for real-life statistical problems, and which are anticipated to have a broad scientific impact. Purely theoretical papers are avoided but those on theoretical developments which clearly exhibit concrete applied potential may be considered. Papers demonstrating creative development of statistical techniques based on a true challenge in a subject area are strongly encouraged. The Journal publishes original research papers, review articles, and short application notes.
