@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#instalação do texlive
+#>sudo apt-get install texlive-full
+
 #cria estrutura
 mkdir template template/images template/references template/analysis template/data template/temp
 touch template/bibliography.bib template/main.tex template/elsearticle.cls
