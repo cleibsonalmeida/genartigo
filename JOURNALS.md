@@ -45,7 +45,7 @@ Os artigos completos, destinados diretamente a publicação na Revista, são rec
 
 http://www.tandfonline.com/toc/cjas20/current
 
- Journal of Applied Statistics  is a world-leading journal which provides a forum for communication among statisticians and practitioners for judicious application of statistical principles and innovations of statistical methodology motivated by current and important real-world examples across a wide range of disciplines, including, but not limited to:
+Journal of Applied Statistics  is a world-leading journal which provides a forum for communication among statisticians and practitioners for judicious application of statistical principles and innovations of statistical methodology motivated by current and important real-world examples across a wide range of disciplines, including, but not limited to:
 
 ### biological and biomedical sciences
 ### business, economics, management and finance
@@ -59,11 +59,8 @@ http://www.tandfonline.com/toc/cjas20/current
 ### operations research
 ### social sciences
 
+## Aviation & Space Journal
 
-The editorial policy is to publish rigorous, clear and accessible papers on methods developed for real-life statistical problems, and which are anticipated to have a broad scientific impact. Purely theoretical papers are avoided but those on theoretical developments which clearly exhibit concrete applied potential may be considered. Papers demonstrating creative development of statistical techniques based on a true challenge in a subject area are strongly encouraged. The Journal publishes original research papers, review articles, and short application notes.
+http://www.aviationspacejournal.com
 
-In general, original research papers should present one or two challenges in an area, include relevant data, provide a novel method to solve challenges, and demonstrate that the proposed method has answered questions that were not properly or optimally addressed before by relevant existing methods. Review articles should focus on one or more current statistical research methods that have been widely used by other discipline(s), along with applications and a discussion for future directions. Application notes should at least illustrate innovative application of existing statistical method(s) to a data challenge in any discipline with convincing findings.  
-
-All papers should be prepared using the Journal's templates. Using these templates, original research and review articles should not typically be more than 20 manuscript pages, while application notes should be at most 10 manuscript pages. Theoretical appendices, data sets and multimedia material can be published as supplemental online material. For further information please visit  http://journalauthors.tandf.co.uk/preparation/multimedia.asp.
-
-The Journal actively encourages proposals for special issues in cutting-edge areas of applied statistics. Proposals should be emailed to the Editor-in-Chief for consideration in the first instance. 
+The Aviation & Space Journal is a quarterly journal published in cooperation with the University of Bologna which brings together academic and industry professionals and provides a forum for debate and exchange of information on the leading topics of interest in the international air and space community.
