@@ -1,6 +1,6 @@
 # GenArtigo - Gerador de Template Latex para Artigos
 
-Genartigo é um gerador de templates para elaboração de artigos científicos no padrão para submissão em revistas internacionais.
+**Genartigo** é um gerador de templates para elaboração de artigos científicos no padrão para submissão em revistas internacionais.
 
 ## Gerando a estrutura do artigo (template)
 
