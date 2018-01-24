@@ -64,3 +64,5 @@ Journal of Applied Statistics  is a world-leading journal which provides a forum
 http://www.aviationspacejournal.com
 
 The Aviation & Space Journal is a quarterly journal published in cooperation with the University of Bologna which brings together academic and industry professionals and provides a forum for debate and exchange of information on the leading topics of interest in the international air and space community.
+
+#Others
