@@ -65,4 +65,14 @@ http://www.aviationspacejournal.com
 
 The Aviation & Space Journal is a quarterly journal published in cooperation with the University of Bologna which brings together academic and industry professionals and provides a forum for debate and exchange of information on the leading topics of interest in the international air and space community.
 
+## Journal of Safety Research
+
+The Journal of Safety Research is a multidisciplinary publication that provides for the exchange of scientific evidence in all areas of safety and health, including traffic, workplace, home, and community. While this research forum invites submissions using rigorous methodologies in all related areas, it focuses on basic and applied research in unintentional injury and illness prevention. Affiliated with the National Safety Council, it seeks to engage the global scientific community including academic researchers, engineers, government agencies, policy makers, corporate decision makers, safety professionals and practitioners, psychologists, social scientists, and public health professionals.Benefits to authorsWe also provide many author benefits, such as free PDFs, a liberal copyright policy, special discounts on Elsevier publications and much more. Please click here for more information on our author services.Please see our Guide for Authors for information on article submission. If you require any further information or help, please visit our support pages: http://support.elsevier.com
+
+## Safety Science
+
+Safety Science serves as an international medium for research in the science and technology of human safety. It extends from safety of people at work to other spheres, such as transport, leisure and home, as well as every other field of man's hazardous activities.Safety Science is multidisciplinary. Its contributors and its audience range from psychologists to chemical engineers. The journal covers the domain of safety in its general sense with a special focus on the interfaces between technology, people and organizations. Papers may address the physics and engineering of safety; its social, policy and organisational aspects; the management of risks; the effectiveness of control techniques for safety; standardization, legislation, inspection, insurance, costing aspects, human behaviour and safety and the like.Safety Science will enable academic researchers, engineers and decision-makers in companies, government agencies and international bodies, to augment their information level on the latest trends in the field, from policy makers and management scientists to engineers.The journal focuses primarily on original research papers across its whole scope, but also welcomes state-of-the-art review papers and first hand case histories on accidents and disasters of special significance. The emphasis is on safety risks, as distinct from health risks, but may include both.
+
 #Others
+
+https://www.edanzediting.com/journal-selector
